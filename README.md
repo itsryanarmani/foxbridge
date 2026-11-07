@@ -34,7 +34,7 @@ Install globally first; an npx cache can disappear and break the launcher.
 Build the companion extension from a source checkout:
 
 ```sh
-gh repo clone pooriaarab/foxbridge
+gh repo clone itsryanarmani/foxbridge
 cd foxbridge
 pnpm install
 pnpm build:ext

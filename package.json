@@ -7,9 +7,9 @@
   "author": "Pooria Arab",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/foxbridge.git"
+    "url": "git+https://github.com/itsryanarmani/foxbridge.git"
   },
-  "homepage": "https://github.com/pooriaarab/foxbridge#readme",
+  "homepage": "https://github.com/itsryanarmani/foxbridge#readme",
   "packageManager": "pnpm@11.10.0",
   "engines": {
     "node": ">=24"
